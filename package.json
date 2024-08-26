@@ -1,0 +1,16 @@
+{
+	"name": "com.lab5.gamesystem",
+	"version": "1.0.0",
+	"displayName": "GameSystem Register",
+	"description": "This package provides a framework for registering and managing custom game systems within Unity's player loop.",
+	"unity": "2022.3",
+	"documentationUrl": "",
+	"changelogUrl": "",
+	"licensesUrl": "",
+	"keywords": [
+		"custom",
+		"gamesystem",
+		"register"
+	],
+	"author": "Vitor Pires de Andrade"
+}
